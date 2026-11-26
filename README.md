@@ -3,8 +3,8 @@
 토스쇼핑 쉐어링크 · 쿠팡 파트너스 특가 상품을 모아 보여 주는 정적 페이지입니다.
 GitHub Pages로 서비스하며, 서버·수수료 비용은 들지 않습니다.
 
-- 운영 주소: https://arista-network.github.io/dealjup/
-- 저장소: https://github.com/Arista-Network/dealjup
+- 운영 주소: https://arista-network.github.io/deuktempick/
+- 저장소: https://github.com/Arista-Network/deuktempick
 
 ## 구성
 
