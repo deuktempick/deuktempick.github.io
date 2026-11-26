@@ -1,0 +1,155 @@
+{
+  "site": {
+    "title": "득템쇼핑",
+    "subtitle": "오늘의 특가 모음",
+    "disclosure": "이 페이지의 링크는 쿠팡 파트너스·토스쇼핑 쉐어링크 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.",
+    "notice": "가격과 재고는 시간이 지나면 달라질 수 있어요. 구매 전 판매처에서 꼭 확인해 주세요.",
+    "links": [
+      { "label": "유튜브", "url": "https://www.youtube.com/@deuktempick_kr" },
+      { "label": "스레드", "url": "https://www.threads.com/@dealjup" }
+    ]
+  },
+  "days": [
+    {
+      "date": "2026-11-26",
+      "label": "11/26 (목)",
+      "summary": "토스쇼핑 30일 내 최저가 5선 · 쿠팡 골드박스 특가 5선",
+      "groups": [
+        {
+          "platform": "toss",
+          "platformName": "토스쇼핑",
+          "note": "지금 30일 내 최저가 상품만 골랐어요",
+          "items": [
+            {
+              "brand": "에브리워터",
+              "title": "무라벨 생수 500ml × 40개",
+              "price": 5880,
+              "originPrice": 19800,
+              "discount": 70,
+              "tag": "지금 30일 내 최저가",
+              "rating": 4.8,
+              "reviews": 74627,
+              "url": "https://toss.shopping/_m/3cQlS8Nq",
+              "image": "assets/2026-11-26/thumb/toss-1-water.jpg",
+              "card": "assets/2026-11-26/toss-1-water.png"
+            },
+            {
+              "brand": "베라",
+              "title": "무해력 4ZERO 미용티슈 250매 × 6팩",
+              "price": 4900,
+              "originPrice": 20900,
+              "discount": 76,
+              "tag": "지금 30일 내 최저가",
+              "rating": 4.6,
+              "reviews": 5393,
+              "url": "https://toss.shopping/_m/fJFXdsiz",
+              "image": "assets/2026-11-26/thumb/toss-2-tissue.jpg",
+              "card": "assets/2026-11-26/toss-2-tissue.png"
+            },
+            {
+              "brand": "비기온",
+              "title": "맛밤 30g × 15개",
+              "price": 10800,
+              "originPrice": 44000,
+              "discount": 75,
+              "tag": "지금 30일 내 최저가",
+              "rating": 4.6,
+              "reviews": 1706,
+              "url": "https://toss.shopping/_m/VBsnqgig",
+              "image": "assets/2026-11-26/thumb/toss-3-matbam.jpg",
+              "card": "assets/2026-11-26/toss-3-matbam.png"
+            },
+            {
+              "brand": "계혁명",
+              "title": "염지통닭 600g × 4마리",
+              "price": 12700,
+              "originPrice": 30900,
+              "discount": 58,
+              "tag": "지금 30일 내 최저가",
+              "rating": 4.7,
+              "reviews": 1110,
+              "url": "https://toss.shopping/_m/x45kjZyv",
+              "image": "assets/2026-11-26/thumb/toss-4-chicken.jpg",
+              "card": "assets/2026-11-26/toss-4-chicken.png"
+            },
+            {
+              "brand": "메르헨트",
+              "title": "딥 모이스춰 바세린 바디워시 1L × 2개",
+              "price": 9990,
+              "originPrice": 40000,
+              "discount": 75,
+              "tag": "지금 30일 내 최저가",
+              "rating": 4.6,
+              "reviews": 247,
+              "url": "https://toss.shopping/_m/ti06nrjp",
+              "image": "assets/2026-11-26/thumb/toss-5-bodywash.jpg",
+              "card": "assets/2026-11-26/toss-5-bodywash.png"
+            }
+          ]
+        },
+        {
+          "platform": "coupang",
+          "platformName": "쿠팡",
+          "note": "골드박스·특가에서 할인 폭 큰 상품만 골랐어요",
+          "items": [
+            {
+              "brand": "깨끗한나라",
+              "title": "순수 시그니처 3겹 롤화장지 27m 30롤",
+              "price": 12870,
+              "originPrice": 27900,
+              "discount": 53,
+              "tag": "골드박스",
+              "url": "https://link.coupang.com/a/iYWr7Fr2yq",
+              "image": "assets/2026-11-26/thumb/cp-1-tissue.jpg",
+              "card": "assets/2026-11-26/cp-1-tissue.png"
+            },
+            {
+              "brand": "헤드앤숄더",
+              "title": "두피 토탈 솔루션 딥클린 샴푸 1.2L",
+              "price": 10900,
+              "originPrice": 15900,
+              "discount": 31,
+              "tag": "골드박스",
+              "url": "https://link.coupang.com/a/iYWtJG9yP6",
+              "image": "assets/2026-11-26/thumb/cp-2-shampoo.jpg",
+              "card": "assets/2026-11-26/cp-2-shampoo.png"
+            },
+            {
+              "brand": "액츠",
+              "title": "퍼펙트 실내건조 액상세제 3.2L",
+              "price": 7950,
+              "originPrice": 17900,
+              "discount": 55,
+              "tag": "골드박스",
+              "url": "https://link.coupang.com/a/iYWu7AIeOq",
+              "image": "assets/2026-11-26/thumb/cp-3-detergent.jpg",
+              "card": "assets/2026-11-26/cp-3-detergent.png"
+            },
+            {
+              "brand": "인라이프",
+              "title": "큰솔저 프렌즈 핫팩 200g × 20개",
+              "price": 8000,
+              "originPrice": 26000,
+              "discount": 69,
+              "tag": "골드박스",
+              "url": "https://link.coupang.com/a/iYWwk5rDIi",
+              "image": "assets/2026-11-26/thumb/cp-4-hotpack.jpg",
+              "card": "assets/2026-11-26/cp-4-hotpack.png"
+            },
+            {
+              "brand": "슬립핏",
+              "title": "4D 고급 암막 수면안대",
+              "price": 5900,
+              "originPrice": 35000,
+              "discount": 83,
+              "tag": "패션 특가",
+              "url": "https://link.coupang.com/a/iYWxxJs0Si",
+              "image": "assets/2026-11-26/thumb/cp-5-sleepmask.jpg",
+              "card": "assets/2026-11-26/cp-5-sleepmask.png"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
