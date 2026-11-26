@@ -15,13 +15,17 @@ app.js              deals.json을 읽어 카드 목록 렌더링 + 실시간 검
 deals.json          상품 데이터 (날짜 → 플랫폼 → 상품)
 assets/<날짜>/       1상품 1장 카드 이미지(.png) + thumb/(480px 썸네일 .jpg)
 tools/make_thumbs.py 카드 이미지에서 상품 사진만 잘라 썸네일 생성
+tools/add_day.py     하루치 데이터(day.json)를 deals.json 맨 앞에 추가
 ```
 
 ## 매일 업데이트하는 방법 (배치용)
 
 1. 오늘 날짜 폴더에 카드 이미지를 넣는다: `assets/YYYY-MM-DD/toss-1~5.png`, `cp-1~5.png`
 2. 썸네일 생성: `python3 tools/make_thumbs.py assets/YYYY-MM-DD`
-3. `deals.json`의 `days` 맨 앞에 오늘 날짜 블록을 추가한다.
+3. 오늘 하루치를 `day.json`으로 만들고 다음 명령으로 `deals.json`에 넣는다(정렬·중복 검사 자동).
+   ```
+   python3 tools/add_day.py day.json
+   ```
    - `date`: `YYYY-MM-DD`, `label`: `MM/DD (요일)`, `summary`: 한 줄 요약
    - 그룹: `platform`(`toss` | `coupang`), `platformName`, `note`, `items[]`
    - 상품: `brand`, `title`, `price`, `originPrice`, `discount`, `tag`, `rating`, `reviews`,
