@@ -312,6 +312,8 @@ a { color: inherit; text-decoration: none; }
 }
 
 .brand-name {
+  flex: 0 1 auto;
+  min-width: 0;
   color: var(--muted);
   font-size: 11.5px;
   font-weight: 600;
@@ -321,8 +323,7 @@ a { color: inherit; text-decoration: none; }
 }
 
 .tag {
-  flex: none;
-  max-width: 60%;
+  flex: 0 0 auto;
   padding: 1px 6px;
   border-radius: 5px;
   background: rgba(255, 255, 255, 0.06);
