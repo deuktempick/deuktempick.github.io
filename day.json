@@ -1,0 +1,151 @@
+{
+  "date": "2026-11-27",
+  "label": "11/27 (금)",
+  "summary": "토스쇼핑 30일 내 최저가 5선 · 쿠팡 골드박스·패션 특가 5선",
+  "groups": [
+    {
+      "platform": "toss",
+      "platformName": "토스쇼핑",
+      "note": "지금 30일 내 최저가 상품만 골랐어요",
+      "items": [
+        {
+          "brand": "더건강플러스",
+          "title": "엑스트라버진 올리브오일 1L",
+          "price": 10900,
+          "originPrice": 39800,
+          "discount": 72,
+          "tag": "지금 30일 내 최저가",
+          "rating": 4.7,
+          "reviews": 12245,
+          "url": "https://toss.shopping/_m/7XCXShGl",
+          "image": "assets/2026-11-27/thumb/toss-1-olive.jpg",
+          "card": "assets/2026-11-27/toss-1-olive.png"
+        },
+        {
+          "brand": "제주의맛",
+          "title": "서귀포 조생 감귤 10kg",
+          "price": 11800,
+          "originPrice": 40000,
+          "discount": 70,
+          "tag": "지금 30일 내 최저가",
+          "rating": 4.3,
+          "reviews": 1051,
+          "url": "https://toss.shopping/_m/31bHhI28",
+          "image": "assets/2026-11-27/thumb/toss-2-tangerine.jpg",
+          "card": "assets/2026-11-27/toss-2-tangerine.png"
+        },
+        {
+          "brand": "에빈코리아",
+          "title": "히트 테라피 붙이는 슬림 온열팩 30매",
+          "price": 5990,
+          "originPrice": 24900,
+          "discount": 75,
+          "tag": "지금 30일 내 최저가",
+          "rating": 5.0,
+          "reviews": 16,
+          "url": "https://toss.shopping/_m/BPx9iDWm",
+          "image": "assets/2026-11-27/thumb/toss-3-hotpack.jpg",
+          "card": "assets/2026-11-27/toss-3-hotpack.png"
+        },
+        {
+          "brand": "청우",
+          "title": "초코파이 찰떡 860g",
+          "price": 8400,
+          "originPrice": 20000,
+          "discount": 58,
+          "tag": "지금 30일 내 최저가",
+          "rating": 4.6,
+          "reviews": 3962,
+          "url": "https://toss.shopping/_m/tBbBTp8t",
+          "image": "assets/2026-11-27/thumb/toss-4-chocopie.jpg",
+          "card": "assets/2026-11-27/toss-4-chocopie.png"
+        },
+        {
+          "brand": "스파클",
+          "title": "무라벨 생수 2L × 24개",
+          "price": 10180,
+          "originPrice": 20000,
+          "discount": 49,
+          "tag": "선착순 하루특가",
+          "rating": 4.8,
+          "reviews": 96302,
+          "url": "https://toss.shopping/_m/zGNgx5Qc",
+          "image": "assets/2026-11-27/thumb/toss-5-water.jpg",
+          "card": "assets/2026-11-27/toss-5-water.png"
+        }
+      ]
+    },
+    {
+      "platform": "coupang",
+      "platformName": "쿠팡",
+      "note": "골드박스·패션 특가에서 할인 폭 큰 상품만 골랐어요",
+      "items": [
+        {
+          "brand": "라세르",
+          "title": "겨울 방한 기모 바라클라바",
+          "price": 9800,
+          "originPrice": 65000,
+          "discount": 85,
+          "tag": "쿠팡 패션 특가",
+          "rating": null,
+          "reviews": null,
+          "url": "https://link.coupang.com/a/i0BDaUs16q",
+          "image": "assets/2026-11-27/thumb/cp-1-baraclava.jpg",
+          "card": "assets/2026-11-27/cp-1-baraclava.png"
+        },
+        {
+          "brand": "이노벨런스",
+          "title": "기능성 아치 쿠션 깔창",
+          "price": 9800,
+          "originPrice": 60000,
+          "discount": 84,
+          "tag": "쿠팡 패션 특가",
+          "rating": null,
+          "reviews": null,
+          "url": "https://link.coupang.com/a/i0BHH8Yydw",
+          "image": "assets/2026-11-27/thumb/cp-2-insole.jpg",
+          "card": "assets/2026-11-27/cp-2-insole.png"
+        },
+        {
+          "brand": "해피데이",
+          "title": "포켓형 핫팩 100g × 30개",
+          "price": 9460,
+          "originPrice": 21000,
+          "discount": 54,
+          "tag": "쿠팡 골드박스",
+          "rating": null,
+          "reviews": null,
+          "url": "https://link.coupang.com/a/i0BrMZl7a8",
+          "image": "assets/2026-11-27/thumb/cp-3-hotpack.jpg",
+          "card": "assets/2026-11-27/cp-3-hotpack.png"
+        },
+        {
+          "brand": "무연골",
+          "title": "돌돌말이 대패삼겹살 500g × 2개",
+          "price": 9900,
+          "originPrice": 19000,
+          "discount": 47,
+          "tag": "쿠팡 골드박스",
+          "rating": null,
+          "reviews": null,
+          "url": "https://link.coupang.com/a/i0BuX1OnfM",
+          "image": "assets/2026-11-27/thumb/cp-4-samgyeop.jpg",
+          "card": "assets/2026-11-27/cp-4-samgyeop.png"
+        },
+        {
+          "brand": "하림",
+          "title": "닭가슴살 블랙페퍼 800g",
+          "price": 14510,
+          "originPrice": 19900,
+          "discount": 27,
+          "tag": "쿠팡 골드박스",
+          "rating": null,
+          "reviews": null,
+          "url": "https://link.coupang.com/a/i0BWKo35yK",
+          "image": "assets/2026-11-27/thumb/cp-5-chicken.jpg",
+          "card": "assets/2026-11-27/cp-5-chicken.png"
+        }
+      ]
+    }
+  ]
+}
