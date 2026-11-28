@@ -17,6 +17,147 @@
   },
   "days": [
     {
+      "date": "2026-11-28",
+      "label": "11/28 (토)",
+      "summary": "토스쇼핑 30일 내 최저가 5선 · 쿠팡 골드박스 특가 5선",
+      "groups": [
+        {
+          "platform": "toss",
+          "platformName": "토스쇼핑",
+          "note": "지금 30일 내 최저가·특가 상품 중 할인 큰 생필품만 골랐어요",
+          "items": [
+            {
+              "brand": "에브리워터",
+              "title": "무라벨 생수 500ml × 40개",
+              "price": 6290,
+              "originPrice": 19800,
+              "discount": 68,
+              "tag": "지금 30일 내 최저가",
+              "rating": 4.8,
+              "reviews": 75139,
+              "url": "https://toss.shopping/_m/3cQlS8Nq",
+              "image": "assets/2026-11-28/thumb/toss-1-water.jpg",
+              "card": "assets/2026-11-28/toss-1-water.png"
+            },
+            {
+              "brand": "프로프룻",
+              "title": "햇 부사사과 5kg",
+              "price": 11900,
+              "originPrice": 79900,
+              "discount": 85,
+              "tag": "85% 특가",
+              "rating": 4.3,
+              "reviews": 2391,
+              "url": "https://toss.shopping/_m/Hw1bUysb",
+              "image": "assets/2026-11-28/thumb/toss-2-apple.jpg",
+              "card": "assets/2026-11-28/toss-2-apple.png"
+            },
+            {
+              "brand": "한예지",
+              "title": "가든 플라워 롤 화장지 30롤 × 2팩",
+              "price": 19900,
+              "originPrice": 37900,
+              "discount": 47,
+              "tag": "지금 30일 내 최저가",
+              "rating": 4.7,
+              "reviews": 33925,
+              "url": "https://toss.shopping/_m/Jh4IsMgg",
+              "image": "assets/2026-11-28/thumb/toss-3-tissue.jpg",
+              "card": "assets/2026-11-28/toss-3-tissue.png"
+            },
+            {
+              "brand": "원김치",
+              "title": "쪽파김치 가정용 2kg",
+              "price": 8450,
+              "originPrice": 20000,
+              "discount": 57,
+              "tag": "57% 특가",
+              "rating": 4.6,
+              "reviews": 18545,
+              "url": "https://toss.shopping/_m/1vxRKEsv",
+              "image": "assets/2026-11-28/thumb/toss-4-kimchi.jpg",
+              "card": "assets/2026-11-28/toss-4-kimchi.png"
+            },
+            {
+              "brand": "예진원",
+              "title": "국내산 ABC주스 80ml × 35개",
+              "price": 6900,
+              "originPrice": 19900,
+              "discount": 65,
+              "tag": "선착순특가",
+              "rating": 4.7,
+              "reviews": 18905,
+              "url": "https://toss.shopping/_m/za3nyzvu",
+              "image": "assets/2026-11-28/thumb/toss-5-juice.jpg",
+              "card": "assets/2026-11-28/toss-5-juice.png"
+            }
+          ]
+        },
+        {
+          "platform": "coupang",
+          "platformName": "쿠팡",
+          "note": "골드박스에서 할인 폭 큰 생활·식품 특가만 골랐어요",
+          "items": [
+            {
+              "brand": "EZn이지엔",
+              "title": "위생장갑 플러스 500개입",
+              "price": 7990,
+              "originPrice": 22260,
+              "discount": 64,
+              "tag": "쿠팡 골드박스",
+              "url": "https://link.coupang.com/a/i2gbJhJWqO",
+              "image": "assets/2026-11-28/thumb/cp-1-gloves.jpg",
+              "card": "assets/2026-11-28/cp-1-gloves.png"
+            },
+            {
+              "brand": "아띠홈",
+              "title": "딥모드 전자레인지 라면용기 2개",
+              "price": 8580,
+              "originPrice": 19500,
+              "discount": 56,
+              "tag": "쿠팡 골드박스",
+              "url": "https://link.coupang.com/a/i2geXMmVAy",
+              "image": "assets/2026-11-28/thumb/cp-2-container.jpg",
+              "card": "assets/2026-11-28/cp-2-container.png"
+            },
+            {
+              "brand": "am",
+              "title": "이탈리아 스톤 양면 도마",
+              "price": 7500,
+              "originPrice": 18700,
+              "discount": 59,
+              "tag": "쿠팡 골드박스",
+              "url": "https://link.coupang.com/a/i2gglHznMW",
+              "image": "assets/2026-11-28/thumb/cp-3-board.jpg",
+              "card": "assets/2026-11-28/cp-3-board.png"
+            },
+            {
+              "brand": "스프라이트",
+              "title": "스프라이트 캔 350ml × 24개",
+              "price": 12980,
+              "originPrice": 23000,
+              "discount": 43,
+              "tag": "쿠팡 골드박스",
+              "url": "https://link.coupang.com/a/i2gdlEIQrk",
+              "image": "assets/2026-11-28/thumb/cp-4-sprite.jpg",
+              "card": "assets/2026-11-28/cp-4-sprite.png"
+            },
+            {
+              "brand": "아사히",
+              "title": "미쓰야 사이다 캔디 112g × 6봉",
+              "price": 10440,
+              "originPrice": 16320,
+              "discount": 36,
+              "tag": "쿠팡 골드박스",
+              "url": "https://link.coupang.com/a/i2ghXlleG5",
+              "image": "assets/2026-11-28/thumb/cp-5-candy.jpg",
+              "card": "assets/2026-11-28/cp-5-candy.png"
+            }
+          ]
+        }
+      ]
+    },
+    {
       "date": "2026-11-27",
       "label": "11/27 (금)",
       "summary": "토스쇼핑 30일 내 최저가 5선 · 쿠팡 골드박스·패션 특가 5선",
