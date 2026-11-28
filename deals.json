@@ -19,7 +19,7 @@
     {
       "date": "2026-11-28",
       "label": "11/28 (토)",
-      "summary": "토스쇼핑 선착순특가·30일 최저가 10선 · 쿠팡 겨울 패션·골드박스 특가 10선 (오전 10시 · 점심 13시)",
+      "summary": "토스쇼핑 선착순특가·30일 최저가 15선 · 쿠팡 겨울 패션·골드박스 특가 15선 (오전 10시 · 점심 13시 · 저녁 20시)",
       "groups": [
         {
           "platform": "toss",
@@ -286,6 +286,140 @@
               "url": "https://link.coupang.com/a/i2rUA2rAyW",
               "image": "assets/2026-11-28/thumb/cp-10-belt.jpg",
               "card": "assets/2026-11-28/cp-10-belt.png"
+            }
+          ]
+        },
+        {
+          "platform": "toss",
+          "platformName": "토스쇼핑",
+          "note": "저녁 20시 회차 · 하루특가·30일 최저가 중 할인 큰 것만 골랐어요",
+          "items": [
+            {
+              "brand": "리르",
+              "title": "맥주효모 비오틴 스칼프 밸런스 앰플 80ml",
+              "price": 8250,
+              "originPrice": 35000,
+              "discount": 76,
+              "tag": "헤어앰플 판매 2위",
+              "rating": 4.6,
+              "reviews": 39,
+              "url": "https://toss.shopping/_m/hnQEmgbt",
+              "image": "assets/2026-11-28/thumb/toss-11-ample.jpg",
+              "card": "assets/2026-11-28/toss-11-ample.png"
+            },
+            {
+              "brand": "고기중독",
+              "title": "매운 돼지갈비찜 800g × 2개",
+              "price": 12900,
+              "originPrice": 47000,
+              "discount": 72,
+              "tag": "지금 30일 내 최저가",
+              "rating": 4.2,
+              "reviews": 3435,
+              "url": "https://toss.shopping/_m/t46Xz5Xr",
+              "image": "assets/2026-11-28/thumb/toss-12-galbi.jpg",
+              "card": "assets/2026-11-28/toss-12-galbi.png"
+            },
+            {
+              "brand": "탐나유",
+              "title": "햇밤 알밤 2kg",
+              "price": 9810,
+              "originPrice": 29900,
+              "discount": 67,
+              "tag": "오늘만 하루특가",
+              "rating": 4.5,
+              "reviews": 3637,
+              "url": "https://toss.shopping/_m/jSAeqVqp",
+              "image": "assets/2026-11-28/thumb/toss-13-bam.jpg",
+              "card": "assets/2026-11-28/toss-13-bam.png"
+            },
+            {
+              "brand": "가락시장521",
+              "title": "전기구이 몸통 오징어 200g",
+              "price": 8330,
+              "originPrice": 20000,
+              "discount": 58,
+              "tag": "오늘만 하루특가",
+              "rating": 4.5,
+              "reviews": 3155,
+              "url": "https://toss.shopping/_m/jXiIpMby",
+              "image": "assets/2026-11-28/thumb/toss-14-ojingeo.jpg",
+              "card": "assets/2026-11-28/toss-14-ojingeo.png"
+            },
+            {
+              "brand": "논슬립",
+              "title": "옷걸이 42cm 30개 (1개당 320원)",
+              "price": 9600,
+              "originPrice": 17900,
+              "discount": 46,
+              "tag": "지금 30일 내 최저가",
+              "rating": 4.4,
+              "reviews": 101,
+              "url": "https://toss.shopping/_m/JVQLV6Jl",
+              "image": "assets/2026-11-28/thumb/toss-15-hanger.jpg",
+              "card": "assets/2026-11-28/toss-15-hanger.png"
+            }
+          ]
+        },
+        {
+          "platform": "coupang",
+          "platformName": "쿠팡",
+          "note": "저녁 20시 회차 · 겨울 패션특가 + 골드박스 생활용품",
+          "items": [
+            {
+              "brand": "라뷰드",
+              "title": "루즈핏 페이크 퍼 숏자켓",
+              "price": 28900,
+              "originPrice": 139000,
+              "discount": 79,
+              "tag": "쿠팡 패션특가",
+              "url": "https://link.coupang.com/a/i2XYMbrTsO",
+              "image": "assets/2026-11-28/thumb/cp-11-jacket.jpg",
+              "card": "assets/2026-11-28/cp-11-jacket.png"
+            },
+            {
+              "brand": "럭키제이",
+              "title": "여성 겨울 기모 패치 맨투맨",
+              "price": 22800,
+              "originPrice": 98000,
+              "discount": 77,
+              "tag": "쿠팡 패션특가",
+              "url": "https://link.coupang.com/a/i2X0cd6HOS",
+              "image": "assets/2026-11-28/thumb/cp-12-sweat.jpg",
+              "card": "assets/2026-11-28/cp-12-sweat.png"
+            },
+            {
+              "brand": "라이프란스",
+              "title": "족저근막 EVA 층간소음 슬리퍼",
+              "price": 7900,
+              "originPrice": 19000,
+              "discount": 58,
+              "tag": "쿠팡 골드박스",
+              "url": "https://link.coupang.com/a/i2X1GGg4Z2",
+              "image": "assets/2026-11-28/thumb/cp-13-slipper.jpg",
+              "card": "assets/2026-11-28/cp-13-slipper.png"
+            },
+            {
+              "brand": "코멧",
+              "title": "1단 폴 행거 (화이트)",
+              "price": 12990,
+              "originPrice": 29000,
+              "discount": 55,
+              "tag": "쿠팡 골드박스",
+              "url": "https://link.coupang.com/a/i2X3e87FdI",
+              "image": "assets/2026-11-28/thumb/cp-14-rack.jpg",
+              "card": "assets/2026-11-28/cp-14-rack.png"
+            },
+            {
+              "brand": "곰곰",
+              "title": "새우 볶음밥 300g × 6개",
+              "price": 12590,
+              "originPrice": 21290,
+              "discount": 40,
+              "tag": "쿠팡 골드박스",
+              "url": "https://link.coupang.com/a/i2X4T1Kp8S",
+              "image": "assets/2026-11-28/thumb/cp-15-friedrice.jpg",
+              "card": "assets/2026-11-28/cp-15-friedrice.png"
             }
           ]
         }
