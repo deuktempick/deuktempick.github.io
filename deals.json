@@ -19,12 +19,12 @@
     {
       "date": "2026-11-28",
       "label": "11/28 (토)",
-      "summary": "토스쇼핑 30일 내 최저가 5선 · 쿠팡 골드박스 특가 5선",
+      "summary": "토스쇼핑 선착순특가·30일 최저가 10선 · 쿠팡 겨울 패션·골드박스 특가 10선 (오전 10시 · 점심 13시)",
       "groups": [
         {
           "platform": "toss",
           "platformName": "토스쇼핑",
-          "note": "지금 30일 내 최저가·특가 상품 중 할인 큰 생필품만 골랐어요",
+          "note": "오전 10시 회차 · 지금 30일 내 최저가·특가 상품 중 할인 큰 생필품만 골랐어요",
           "items": [
             {
               "brand": "에브리워터",
@@ -96,7 +96,7 @@
         {
           "platform": "coupang",
           "platformName": "쿠팡",
-          "note": "골드박스에서 할인 폭 큰 생활·식품 특가만 골랐어요",
+          "note": "오전 10시 회차 · 골드박스에서 할인 폭 큰 생활·식품 특가만 골랐어요",
           "items": [
             {
               "brand": "EZn이지엔",
@@ -152,6 +152,140 @@
               "url": "https://link.coupang.com/a/i2ghXlleG5",
               "image": "assets/2026-11-28/thumb/cp-5-candy.jpg",
               "card": "assets/2026-11-28/cp-5-candy.png"
+            }
+          ]
+        },
+        {
+          "platform": "toss",
+          "platformName": "토스쇼핑",
+          "note": "점심 13시 회차 · 오늘 뜨는 선착순특가 중 할인 큰 것만 골랐어요",
+          "items": [
+            {
+              "brand": "지그비",
+              "title": "컴팩트 초미세모 칫솔 22개입",
+              "price": 7500,
+              "originPrice": 31900,
+              "discount": 76,
+              "tag": "선착순특가",
+              "rating": 4.6,
+              "reviews": 306,
+              "url": "https://toss.shopping/_m/79Zh0LTs",
+              "image": "assets/2026-11-28/thumb/toss-6-toothbrush.jpg",
+              "card": "assets/2026-11-28/toss-6-toothbrush.png"
+            },
+            {
+              "brand": "할리스",
+              "title": "블랙아리아 아메리카노 550ml × 12개",
+              "price": 11900,
+              "originPrice": 38400,
+              "discount": 69,
+              "tag": "선착순특가",
+              "rating": 4.7,
+              "reviews": 410,
+              "url": "https://toss.shopping/_m/lvmHkMoA",
+              "image": "assets/2026-11-28/thumb/toss-7-coffee.jpg",
+              "card": "assets/2026-11-28/toss-7-coffee.png"
+            },
+            {
+              "brand": "더자인",
+              "title": "국내산 가정용 꿀배 대용량 5kg",
+              "price": 8810,
+              "originPrice": 17900,
+              "discount": 50,
+              "tag": "선착순특가",
+              "rating": 4.1,
+              "reviews": 916,
+              "url": "https://toss.shopping/_m/7eaYlCha",
+              "image": "assets/2026-11-28/thumb/toss-8-pear.jpg",
+              "card": "assets/2026-11-28/toss-8-pear.png"
+            },
+            {
+              "brand": "오즈랜드",
+              "title": "오트 초코칩쿠키 480g",
+              "price": 5900,
+              "originPrice": 17000,
+              "discount": 65,
+              "tag": "선착순특가",
+              "rating": 4.7,
+              "reviews": 2805,
+              "url": "https://toss.shopping/_m/ZgJntKba",
+              "image": "assets/2026-11-28/thumb/toss-9-cookie.jpg",
+              "card": "assets/2026-11-28/toss-9-cookie.png"
+            },
+            {
+              "brand": "리버티",
+              "title": "딥슬립 입는 오버나이트 4매입 × 5팩",
+              "price": 8250,
+              "originPrice": 24500,
+              "discount": 66,
+              "tag": "선착순특가",
+              "rating": 4.8,
+              "reviews": 305,
+              "url": "https://toss.shopping/_m/D3KorMuA",
+              "image": "assets/2026-11-28/thumb/toss-10-panty.jpg",
+              "card": "assets/2026-11-28/toss-10-panty.png"
+            }
+          ]
+        },
+        {
+          "platform": "coupang",
+          "platformName": "쿠팡",
+          "note": "점심 13시 회차 · 겨울 패션특가 + 골드박스 주방 특가",
+          "items": [
+            {
+              "brand": "라세르",
+              "title": "스마트폰 터치 기모 방한 장갑",
+              "price": 8900,
+              "originPrice": 40000,
+              "discount": 78,
+              "tag": "쿠팡 패션특가",
+              "url": "https://link.coupang.com/a/i2rOSXHARM",
+              "image": "assets/2026-11-28/thumb/cp-6-gloves.jpg",
+              "card": "assets/2026-11-28/cp-6-gloves.png"
+            },
+            {
+              "brand": "비바슈슈",
+              "title": "남성 무지 중목 양말 8켤레",
+              "price": 14990,
+              "originPrice": 74990,
+              "discount": 80,
+              "tag": "쿠팡 패션특가",
+              "url": "https://link.coupang.com/a/i2rQiAOvv2",
+              "image": "assets/2026-11-28/thumb/cp-7-socks.jpg",
+              "card": "assets/2026-11-28/cp-7-socks.png"
+            },
+            {
+              "brand": "헤어센틱",
+              "title": "무매듭 여성 머리끈 500개 + 파우치 5개",
+              "price": 8900,
+              "originPrice": 50000,
+              "discount": 82,
+              "tag": "쿠팡 패션특가",
+              "url": "https://link.coupang.com/a/i2rRwEzFuu",
+              "image": "assets/2026-11-28/thumb/cp-8-hairtie.jpg",
+              "card": "assets/2026-11-28/cp-8-hairtie.png"
+            },
+            {
+              "brand": "휘슬러",
+              "title": "폴라룩스 팬 28cm",
+              "price": 34900,
+              "originPrice": 64000,
+              "discount": 45,
+              "tag": "쿠팡 골드박스",
+              "url": "https://link.coupang.com/a/i2rTBTJPrM",
+              "image": "assets/2026-11-28/thumb/cp-9-wmf.jpg",
+              "card": "assets/2026-11-28/cp-9-wmf.png"
+            },
+            {
+              "brand": "라이프컴바인",
+              "title": "1+1 남성벨트 정장 가죽",
+              "price": 9800,
+              "originPrice": 65000,
+              "discount": 85,
+              "tag": "쿠팡 패션특가",
+              "url": "https://link.coupang.com/a/i2rUA2rAyW",
+              "image": "assets/2026-11-28/thumb/cp-10-belt.jpg",
+              "card": "assets/2026-11-28/cp-10-belt.png"
             }
           ]
         }
